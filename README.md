@@ -21,3 +21,9 @@ Using the MechaCar Dataset(CSV), I designed a linear model that predicts the MPG
   - Spoiler Angle
   - Ground Clearance
   
+### Summary
+
+  - Upon running a correlation analysis across the dataset, the findings suggest that non-random variables of mpg values are Vehicle Length and Ground Clearance
+![image](https://user-images.githubusercontent.com/8845050/180059965-9a140e71-153a-4015-b3c2-02b102fcbdcf.png)
+
+  - 
