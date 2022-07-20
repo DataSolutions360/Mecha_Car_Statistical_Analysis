@@ -12,3 +12,12 @@ In This challenge, we are slated to discover and analyze the following:
 
 ## Deliverable 1:  Linear Regression to predict MPG
 
+Using the MechaCar Dataset(CSV), I designed a linear model that predicts the MPG of MechaCar prototypes, using serval variables listed below:
+
+  - Vehicle Length
+  - Vehicle Weight
+  - AWD
+  - MPG(Miles Per Gallon)
+  - Spoiler Angle
+  - Ground Clearance
+  
