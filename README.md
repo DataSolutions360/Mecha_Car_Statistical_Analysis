@@ -37,3 +37,13 @@ Below is all the analysis, in order, to achieve Deliverable 1:
 
 ![Deliverable1](https://user-images.githubusercontent.com/8845050/180066173-7915dca7-53f6-4971-8367-1a85eac1eed6.PNG)
 
+## Deliverable 2: Create Visualization for the Trip Analysis
+
+Using the Suspension_Coils.csv file, the creation of summary statistics table is required to show the suspension coil's PSI continuous variable across all manufacturing lots.  This will encompass the Mean(Average), Median, Variance, and Standard Deviation of each lot.
+
+### Summary Statistics on SUspension Coils
+
+  - Based on the variance, MechaCar specifications desire that coils must NOT exceed 100 pounds per square inch(PSI) in variance.  Lots 1 and 2 show a minimal variance and are under the maximum weight, but lot 3 shows a variance of 170+, as well as a mean of 1496, which is lower than 1500 for respective lots 1 and 2.  Lot 3 is clearly filled with rejects and would be discarded from production.
+
+
+
