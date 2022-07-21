@@ -70,6 +70,24 @@ For this last deliverable, I designed a statistical study to compare performance
 ### Study Design: MechaCar vs Competition
 
   - What Metrics would be used to test?
+     - Dependent Variable:  Selling Price of the car
+     - Independent Variable(s): MPG, Safety, Maintenance, Resale Value, Transmission, Car Type(Sedan, Coupe, SUV)
+
+  - What are the null and alternative hypotheses? 
+     - Null:  The price of MechaCar can be predictably based on key performance indicators/factors
+     - Alternative: The price of MechaCar can NOT be predictably based on key performance indicators/factors
+
+  - What statistical test would I used to test the hypothesis? Why?
+     - A multiple linear regression would be the first choice(to check the variance of the dependent variable against combination of independent variables), with several ad-hoc t-tests to compare factor populations against sample populations, and even an ANOVA, which will touch upon statistical differences between the distribution means from multiple sampless.
+  - What data is needed to run a statistical test?
+     - For the statistical test to be valid, we would need to compare similar data points to ensure with confidence that the competition comparison is valid as well.  This can be done by quantifying categorical data, or standardizing values into bins, etc.  Quantifying categorical data, i.e. Chi-Squared relevance, can also be a proponent to this.
+
+
+## Resources
+- R
+- RStudio
+- tidyverse
+- Python
 
 
 
