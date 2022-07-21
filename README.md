@@ -45,5 +45,11 @@ Using the Suspension_Coils.csv file, the creation of summary statistics table is
 
   - Based on the variance, MechaCar specifications desire that coils must NOT exceed 100 pounds per square inch(PSI) in variance.  Lots 1 and 2 show a minimal variance and are under the maximum weight, but lot 3 shows a variance of 170+, as well as a mean of 1496, which is lower than 1500 for respective lots 1 and 2.  Lot 3 is clearly filled with rejects and would be discarded from production.
 
+![image](https://user-images.githubusercontent.com/8845050/180251836-fa326e84-1d53-4f55-8ca3-0ba3b0938862.png)
+![image](https://user-images.githubusercontent.com/8845050/180252060-0d2334e1-5b67-4ce3-954e-14c2be90f7dd.png)
+
+
+
+
 
 
