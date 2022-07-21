@@ -47,6 +47,8 @@ Using the Suspension_Coils.csv file, the creation of summary statistics table is
 
 ![image](https://user-images.githubusercontent.com/8845050/180251836-fa326e84-1d53-4f55-8ca3-0ba3b0938862.png)
 ![image](https://user-images.githubusercontent.com/8845050/180252060-0d2334e1-5b67-4ce3-954e-14c2be90f7dd.png)
+![image](https://user-images.githubusercontent.com/8845050/180258941-653b7376-c787-4dca-8218-9380c3e37a7f.png)
+
 
 
 
