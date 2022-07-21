@@ -49,6 +49,20 @@ Using the Suspension_Coils.csv file, the creation of summary statistics table is
 ![image](https://user-images.githubusercontent.com/8845050/180252060-0d2334e1-5b67-4ce3-954e-14c2be90f7dd.png)
 ![image](https://user-images.githubusercontent.com/8845050/180258941-653b7376-c787-4dca-8218-9380c3e37a7f.png)
 
+## Deliverable 3:  T-Tests on Suspension COils
+
+For Deliverable 3, I performed t-tests on all 3 distinguishing group segments(by Manufacturing Lot), and each lot individually are statistically different, with LOT 3 being the most variant.
+
+### Summary of t-tests
+
+ - Looking at the data for each segment, this is when you see a divurgence from the population mean of 1500.
+    - The t-test of Lot 1 has a mean of 1500 PSI.
+    - The t-test of Lot 2 has a mean of 1500.2 PSI
+    - The t-test of Lot 3 has a mean of 1496.14 PSI  (This one stands out!)
+
+![Deliverable3](https://user-images.githubusercontent.com/8845050/180263244-00b95af7-5493-48ad-bffd-5337c366c201.PNG)
+
+
 
 
 
